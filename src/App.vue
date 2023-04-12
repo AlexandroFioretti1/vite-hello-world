@@ -6,7 +6,7 @@ export default{
     }
   }
 }
-</script>
+</script> 
 
 <template>
 <h1>{{ message }}</h1>
